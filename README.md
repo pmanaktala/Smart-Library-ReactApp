@@ -1,2 +1,1 @@
-React NAtive App
-Smart Library
+React Native App
