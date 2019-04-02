@@ -1,1 +1,1 @@
-React NAtive App
+React Native App
