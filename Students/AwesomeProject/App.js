@@ -159,7 +159,7 @@ setSearchText(event) {
       }
       >
         <View style={{flex: 1, paddingTop:40, backgroundColor:"white"}}>
-        <Text style={styles.heading}>Smart Library Prototype</Text>
+        <Text style={styles.heading}>Students Smart Library</Text>
         <TextInput
       style={styles.searchBar}
       value={this.state.searchText}
