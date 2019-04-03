@@ -97,7 +97,7 @@ export default class FetchExample extends React.Component {
   const myjson = global.myData.filter(function(item, index, array){
     if(this.state.search=='')
         return true;
-    else if(data[index]["Name"].indexOf(this.state.search) > -1)
+    else if(data[index]["Name"].toUpperCase().indexOf(this.state.search.toUpperCase()) > -1)
         return true;
     else
         return false;
