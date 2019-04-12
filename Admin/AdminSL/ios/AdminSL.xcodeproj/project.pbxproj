@@ -1232,7 +1232,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pmanaktala;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pmanaktala.AdminSL;
 				PRODUCT_NAME = AdminSL;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1251,7 +1251,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.pmanaktala;
+				PRODUCT_BUNDLE_IDENTIFIER = com.pmanaktala.AdminSL;
 				PRODUCT_NAME = AdminSL;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
